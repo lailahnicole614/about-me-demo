@@ -1,1 +1,1 @@
-[ wireframe of about lailah app](./assets/wireframe.png)
+![wireframe of about lailah app](./assets/unnamed.jpg)
